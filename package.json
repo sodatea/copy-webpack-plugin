@@ -1,12 +1,12 @@
 {
-  "name": "copy-webpack-plugin",
+  "name": "copy-webpack-plugin-v5",
   "version": "5.1.1",
-  "description": "Copy files && directories with webpack",
+  "description": "A fork of copy-webpack-plugin v5.x to fix the vulnerability warning",
   "license": "MIT",
-  "repository": "webpack-contrib/copy-webpack-plugin",
+  "repository": "sodatea/copy-webpack-plugin-v5",
   "author": "Len Boyette",
-  "homepage": "https://github.com/webpack-contrib/copy-webpack-plugin",
-  "bugs": "https://github.com/webpack-contrib/copy-webpack-plugin/issues",
+  "homepage": "https://github.com/sodatea/copy-webpack-plugin-v5",
+  "bugs": "https://github.com/sodatea/copy-webpack-plugin-v5/issues",
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/webpack"
