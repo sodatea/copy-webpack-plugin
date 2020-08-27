@@ -1,6 +1,6 @@
 {
   "name": "copy-webpack-plugin-v5",
-  "version": "5.1.1",
+  "version": "5.1.2",
   "description": "A fork of copy-webpack-plugin v5.x to fix the vulnerability warning",
   "license": "MIT",
   "repository": "sodatea/copy-webpack-plugin-v5",

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.1.2](https://github.com/sodatea/copy-webpack-plugin-v5/compare/v5.1.1...v5.1.2) (2020-08-27)
+
+
+### Bug Fixes
+
+* update serialize-javascript to 4.x ([5921203](https://github.com/sodatea/copy-webpack-plugin-v5/commit/59212031f04ac31683040305df9edd1e8bd32b89))
+
 ### [5.1.1](https://github.com/webpack-contrib/copy-webpack-plugin/compare/v5.1.0...v5.1.1) (2019-12-12)
 
 
